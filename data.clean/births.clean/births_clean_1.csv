@@ -1,0 +1,51 @@
+Facility ,Hospital peer group ,Total deliveries  (YTD) ,Vaginal delivery for first time eligible mothers ,Vaginal delivery for first time eligible mothers (percentages),Early repeat CS delivery ,Early repeat CS delivery (percentages),Post-date inductions done early ,Post-date inductions done early (percentages),Only intermittent Auscultations in low-risk deliveries ,Only intermittent Auscultations in low-risk deliveries (percentages),Healthy babies fed with only breastmilk ,Healthy babies fed with only breastmilk (percentages),Attempted VBAC ,Attempted VBAC (percentages)
+BC Womens,xlarge,6675,5179.8,0.776,1254.9,0.188,20.025,0.003,4879.425,0.731,5239.875,0.785,2369.625,0.355
+Surrey Memorial hospital ,xlarge,4195,2592.51,0.618,2042.965,0.487,12.585,0.003,2907.135,0.693,2328.225,0.555,1111.675,0.265
+Vic General hospital ,xlarge,3047,2166.417,0.711,1237.082,0.406,15.235,0.005,2090.242,0.686,2306.579,0.757,1023.792,0.336
+Royal Columbian Hospital,xlarge,2874,1839.36,0.64,1207.08,0.42,48.858,0.017,1523.22,0.53,2017.548,0.702,1089.246,0.379
+Abbotsford Regional Hospital,xlarge,2546,1726.188,0.678,1132.97,0.445,43.282,0.017,2062.26,0.81,1868.764,0.734,980.21,0.385
+Richmond Hospital,large,1923,1448.019,0.753,623.052,0.324,7.692,0.004,1317.255,0.685,1546.092,0.804,636.513,0.331
+St. Pauls Hospital,large,1557,1077.444,0.692,481.113,0.309,12.456,0.008,1100.799,0.707,1046.304,0.672,376.794,0.242
+Kelowna General Hospital ,large,1610,1099.63,0.683,637.56,0.396,19.32,0.012,1176.91,0.731,1312.15,0.815,355.81,0.221
+Langley Memorial Hospital,large,1534,1089.14,0.71,467.87,0.305,9.204,0.006,1234.87,0.805,1290.094,0.841,602.862,0.393
+Burnaby Hospital ,large,1431,1018.872,0.712,539.487,0.377,8.586,0.006,1071.819,0.749,1134.783,0.793,399.249,0.279
+Lions Gate,large,1386,935.55,0.675,572.418,0.413,8.316,0.006,1038.114,0.749,1219.68,0.88,432.432,0.312
+Nainaimo,large,1225,972.65,0.794,527.975,0.431,19.6,0.016,927.325,0.757,994.7,0.812,445.9,0.364
+Royal Inland Hospital,large,1263,844.947,0.669,680.757,0.539,11.367,0.009,857.577,0.679,985.14,0.78,409.212,0.324
+Peace Arch Hospital ,large,1082,690.316,0.638,324.6,0.3,8.656,0.008,847.206,0.783,892.65,0.825,264.008,0.244
+University Hospital of Northern BC ,large,1164,835.752,0.718,467.928,0.402,8.148,0.007,860.196,0.739,927.708,0.797,358.512,0.308
+Vernon Jubilee Hospital ,medium,832,599.872,0.721,250.432,0.301,4.992,0.006,600.704,0.722,757.12,0.91,257.92,0.31
+Ridge Meadows Hospital,medium,772,433.092,0.561,311.116,0.403,11.58,0.015,627.636,0.813,649.252,0.841,296.448,0.384
+Chiliwach General Hospital ,medium,801,512.64,0.64,346.833,0.433,12.816,0.016,590.337,0.737,647.208,0.808,225.882,0.282
+Penticton Regional Hospital,medium,518,371.924,0.718,200.984,0.388,5.698,0.011,387.464,0.748,447.552,0.864,188.034,0.363
+Fort St. John Hospital ,medium,668,563.792,0.844,299.932,0.449,12.692,0.019,443.552,0.664,509.016,0.762,271.208,0.406
+Cowichan District Hospital ,medium,490,366.52,0.748,151.41,0.309,3.92,0.008,405.72,0.828,373.87,0.763,373.87,0.763
+St. Joseph's General Hospital,medium,513,364.743,0.711,242.136,0.472,4.104,0.008,404.757,0.789,469.395,0.915,162.621,0.317
+Campbell River Hospital,medium,376,266.96,0.71,202.288,0.538,3.76,0.01,312.832,0.832,339.152,0.902,131.224,0.349
+East Kootney Hospital ,medium,417,306.912,0.736,139.695,0.335,4.17,0.01,300.24,0.72,369.462,0.886,150.954,0.362
+Cariboo Memorial Hospital ,medium,304,222.528,0.732,148.656,0.489,2.128,0.007,225.568,0.742,247.76,0.815,117.344,0.386
+Kootney Lake Hospital ,medium,303,222.705,0.735,128.472,0.424,2.424,0.008,237.855,0.785,280.275,0.925,127.563,0.421
+Dawson Creek and District Hospital ,medium,338,258.57,0.765,140.946,0.417,5.746,0.017,208.884,0.618,261.612,0.774,102.076,0.302
+Mills Memorial Hospital ,medium,289,215.594,0.746,94.503,0.327,3.468,0.012,207.791,0.719,254.898,0.882,129.183,0.447
+Squamish General Hospital ,small,230,161.46,0.702,68.08,0.296,2.07,0.009,199.41,0.867,206.31,0.897,82.11,0.357
+West Coast General Hospital ,small,247,176.605,0.715,98.8,0.4,2.717,0.011,179.816,0.728,161.538,0.654,86.697,0.351
+Sechelt Hospital ,small,155,99.82,0.644,56.11,0.362,1.705,0.011,116.405,0.751,129.425,0.835,54.56,0.352
+Shuwap Lake General Hospital,small,183,112.362,0.614,66.246,0.362,2.196,0.012,127.917,0.699,166.713,0.911,63.135,0.345
+Kootney Boundary Region ,small,210,145.95,0.695,84,0.4,2.1,0.01,163.38,0.778,182.49,0.869,60.69,0.289
+Bulkley Valley District Hospital ,small,211,158.883,0.753,65.199,0.309,1.688,0.008,163.103,0.773,175.13,0.83,79.125,0.375
+Powell River General Hospital,small,106,76.956,0.726,36.676,0.346,0.742,0.007,78.546,0.741,95.294,0.899,38.266,0.361
+G. R. Baker Memorial Hospital,small,178,119.794,0.673,66.216,0.372,2.67,0.015,113.742,0.639,151.834,0.853,59.452,0.334
+Queen Victoria Hospital ,small,81,55.89,0.69,31.833,0.393,0.81,0.01,65.043,0.803,74.601,0.921,28.674,0.354
+Prince Rupert Regional Hospital ,small,177,116.112,0.656,82.128,0.464,1.416,0.008,98.235,0.555,156.291,0.883,47.082,0.266
+St. John Hospital,small,124,86.676,0.699,58.776,0.474,2.232,0.018,97.216,0.784,100.068,0.807,32.116,0.259
+Elk Valley Hospital ,small,111,74.814,0.674,40.737,0.367,1.332,0.012,84.138,0.758,100.011,0.901,34.854,0.314
+Golden & District General Hospital ,small,57,40.812,0.716,26.334,0.462,0.627,0.011,43.89,0.77,49.59,0.87,18.183,0.319
+Kitimat General Hospital ,small,66,47.256,0.716,29.832,0.452,0.924,0.014,49.566,0.751,61.182,0.927,22.044,0.334
+Creston Valley Hospital & Health Centre ,small,59,41.654,0.706,25.96,0.44,0.472,0.008,44.722,0.758,54.811,0.929,23.6,0.4
+100 Mile District General Hospital ,small,15,10.74,0.716,6.255,0.417,0.135,0.009,10.92,0.728,13.035,0.869,4.785,0.319
+Lady Minto / Golf Island Hospital ,small,18,0,0,0,0,0.162,0.009,14.292,0.794,15.804,0.878,0,0
+Lillooet Hospital & Health Centre,small,16,11.456,0.716,0,0,0.144,0.009,11.904,0.744,13.376,0.836,0,0
+Invermere & district Hospital,small,24,0,0,0,0,0.216,0.009,18.744,0.781,21.384,0.891,0,0
+Haida Gwaii Hospital and Health Centre,small,17,0,0,0,0,0.153,0.009,12.461,0.733,15.283,0.899,0,0
+Port McNeill Hospital ,small,2,0,0,0,0,0.018,0.009,0,0,1.714,0.857,0,0
+Staurt Lak Hospital ,small,1,0,0,0,0,0.009,0.009,0,0,0,0,0,0
