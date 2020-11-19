@@ -106,11 +106,11 @@ var1_Tukey #results
 #xlarge-medium -0.03593846 -0.3260637 0.254186758 0.9874184
 #xlarge-small   0.14773636 -0.1254075 0.420880226 0.4804932
 
-#INDICATOR #2
+#INDICATOR #6
 
 #running Tukey HSD 
-var2_tukey <- TukeyHSD(aov2)
-var2_tukey #results
+var6_tukey <- TukeyHSD(aov6)
+var6_tukey #results
 
 #Tukey multiple comparisons of means
 #95% family-wise confidence level
@@ -119,10 +119,10 @@ var2_tukey #results
 
 #$peergroup
 #               diff         lwr       upr     p adj
-#medium-large   0.02693846 -0.12922328 0.1831002 0.9673606
-#small-large   -0.09250909 -0.23410348 0.0490853 0.3145444
-#xlarge-large   0.00960000 -0.19374947 0.2129495 0.9992773
-#small-medium  -0.11944755 -0.24932490 0.0104298 0.0815786
-#xlarge-medium -0.01733846 -0.21271031 0.1780334 0.9952752
-#xlarge-small   0.10210909 -0.08182742 0.2860456 0.4577729
+#medium-large   0.08989231 -0.05042527  0.23020989 0.3315139
+#small-large   -0.05957273 -0.18680096  0.06765550 0.6000238
+#xlarge-large   0.04220000 -0.14051764  0.22491764 0.9265874
+#small-medium  -0.14946503 -0.26616503 -0.03276504 0.0071174
+#xlarge-medium -0.04769231 -0.22324173  0.12785712 0.8869486
+#xlarge-small   0.10177273 -0.06350159  0.26704705 0.3661627
 
